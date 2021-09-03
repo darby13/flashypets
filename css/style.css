@@ -1,0 +1,54 @@
+*
+
+body{
+    background-color:rgb(10, 188, 201);
+}
+h1{
+    font-family: 'Tourney', cursive;
+    font-size: 100px;
+    font-style: italic;
+    color: lavenderblush;
+    text-decoration: underline;
+    text-align: center;
+}
+h2{
+    font-family: sans-serif;
+    color: lavenderblush;
+    font-size: 60px;
+    text-align: center;
+}
+p{
+    font-family: sans-serif;
+    color: lavenderblush;
+    text-align: center;
+    text-decoration: underline;
+    font-size: 24px;
+}
+li{
+    font-family: sans-serif;
+    color: lavenderblush;
+    margin-left: 50px;
+}
+img: hover{
+    color:aquamarine;
+}
+div{
+    text-align: center;
+
+}
+.mammals{
+    color: red;
+    font-weight: bold;
+    padding: 0px 30px 0px 30px;
+}
+.fish{
+    color: coral;
+    text-decoration: underline;
+    padding: 30px;
+    margin-top: 40px;
+}
+.birds{
+    color: blue;
+    font-style: italic;
+    margin: 30px 0px 40px 0px;
+}
